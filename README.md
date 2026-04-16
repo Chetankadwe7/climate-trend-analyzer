@@ -40,64 +40,57 @@ It helps understand long-term environmental patterns and detect unusual climate 
 - NumPy  
 - Matplotlib  
 - Scikit-learn  
----
-
-## 📂 Project Structure
-
-Climate-Trend-Analyzer/
+---Climate-Trend-Analyzer/
 │
-├── data/                # Raw climate dataset
-│   └── climate_data.csv
+├── data/ # Raw climate dataset
+│ └── climate_data.csv
 │
-├── src/                 # Core logic (modular code)
-│   ├── data_loader.py
-│   ├── preprocessing.py
-│   ├── features.py
-│   ├── analysis.py
-│   ├── anomaly.py
-│   ├── model.py
+├── src/ # Core logic (modular code)
+│ ├── data_loader.py
+│ ├── preprocessing.py
+│ ├── features.py
+│ ├── analysis.py
+│ ├── anomaly.py
+│ ├── model.py
 │
-├── outputs/             # Generated CSV outputs
-│   ├── trends.csv
-│   ├── forecast.csv
-│   ├── anomalies.csv
+├── outputs/ # Generated CSV outputs
+│ ├── trends.csv
+│ ├── forecast.csv
+│ ├── anomalies.csv
 │
-├── images/              # Graphs / visualizations
-│   ├── forecast_plot.png
-│   ├── temperature_trend.png
-│   ├── rainfall_trend.png
-│   ├── anomaly_plot.png
+├── images/ # Graphs / visualizations
+│ ├── forecast_plot.png
+│ ├── temperature_trend.png
+│ ├── rainfall_trend.png
+│ ├── anomaly_plot.png
 │
-├── models/              # Saved ML model
-│   └── model.pkl
+├── models/ # Saved ML model
+│ └── model.pkl
 │
-├── notebooks/           # Jupyter notebooks (EDA)
-│   └── EDA.ipynb
+├── notebooks/ # Jupyter notebooks (EDA)
+│ └── EDA.ipynb
 │
-├── reports/             # Summary / insights
-│   └── summary.txt
+├── reports/ # Summary / insights
+│ └── summary.txt
 │
-├── main.py              # Main execution file
-├── requirements.txt     # Dependencies
-├── README.md            # Project documentation
----
+├── main.py # Main execution file
+├── requirements.txt # Dependencies
+├── README.md # Project documentation
 
-## ▶️ How to Run
+📊 Results (Links Only)
+📈 Forecast (Actual vs Predicted)
 
-```bash
-python main.py
+https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/images/forecast_plot.png
 
-## 📊 Results 
+🌡️ Temperature Trend
 
-### 📈 Forecast (Actual vs Predicted)
-https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/images/forecast_plot.png  
+https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/images/temperature_trend.png
 
-### 🌡️ Temperature Trend
-https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/images/temperature_trend.png  
+🌧️ Rainfall Trend
 
-### 🌧️ Rainfall Trend
-https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/images/rainfall_trend.png  
+https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/images/rainfall_trend.png
 
-### 🚨 Anomaly Detection
-https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/images/anomaly_plot.png  
+🚨 Anomaly Detection
+
+https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/images/anomaly_plot.png
 
