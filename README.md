@@ -44,8 +44,7 @@ It helps understand long-term environmental patterns and detect unusual climate 
 
 📊 Results 
 📈 Forecast (Actual vs Predicted)
-
-https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/images/forecast_plot.png
+https://github.com/Chetankadwe7/climate-trend-analyzer/blob/main/images/forecast_plot.png
 
 🌡️ Temperature Trend
 
