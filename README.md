@@ -56,6 +56,5 @@ https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/images/temperature_tre
 https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/images/rainfall_trend.png
 
 🚨 Anomaly Detection
-
-https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/images/anomaly_plot.png
+https://github.com/Chetankadwe7/climate-trend-analyzer/blob/main/images/anomaly_plot.png
 
