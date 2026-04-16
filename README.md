@@ -44,16 +44,18 @@ It helps understand long-term environmental patterns and detect unusual climate 
 
 📊 Results 
 📈 Forecast (Actual vs Predicted)
+
 https://github.com/Chetankadwe7/climate-trend-analyzer/blob/main/images/forecast_plot.png
 
 🌡️ Temperature Trend
 
-https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/images/temperature_trend.png
+https://github.com/Chetankadwe7/climate-trend-analyzer/blob/main/images/temperature_trend.png
 
 🌧️ Rainfall Trend
 
 https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/images/rainfall_trend.png
 
 🚨 Anomaly Detection
+
 https://github.com/Chetankadwe7/climate-trend-analyzer/blob/main/images/anomaly_plot.png
 
