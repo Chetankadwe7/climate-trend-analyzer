@@ -41,6 +41,4 @@ It helps understand long-term environmental patterns and detect unusual climate 
 - Matplotlib  
 - Scikit-learn  
 
----
 
-## 📂 Project Structure
