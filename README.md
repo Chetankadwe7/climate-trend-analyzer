@@ -53,7 +53,7 @@ https://github.com/Chetankadwe7/climate-trend-analyzer/blob/main/images/temperat
 
 🌧️ Rainfall Trend
 
-https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/images/rainfall_trend.png
+https://github.com/Chetankadwe7/climate-trend-analyzer/blob/main/images/rainfall_trend.png
 
 🚨 Anomaly Detection
 
